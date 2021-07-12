@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "布的用量",
+    "slug": "FabricCalculationReact",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.fabriccalculation",
+      "versionCode": 1
+    },
+    "sdkVersion": "40.0.0"
+  }
+}
